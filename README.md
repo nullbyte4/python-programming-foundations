@@ -54,9 +54,9 @@ not implemented programs already included in this repository.
 **Read:** [PCC, Chapters 1-2][pcc] - "Getting Started" and
 "Variables and Simple Data Types".
 
-- [ ] Run a saved script and distinguish terminal commands from Python code
+- [x] Run a saved script and distinguish terminal commands from Python code
   entered at the `>>>` prompt.
-- [ ] Assign and reassign variables; understand names as labels referring to
+- [x] Assign and reassign variables; understand names as labels referring to
   values rather than manually managed memory.
 - [ ] Work with strings: quotes, f-strings, case changes, whitespace, and
   `.strip()`. Understand that string methods return new strings.
