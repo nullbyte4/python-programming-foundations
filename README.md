@@ -58,12 +58,12 @@ not implemented programs already included in this repository.
   entered at the `>>>` prompt.
 - [x] Assign and reassign variables; understand names as labels referring to
   values rather than manually managed memory.
-- [ ] Work with strings: quotes, f-strings, case changes, whitespace, and
+- [x] Work with strings: quotes, f-strings, case changes, whitespace, and
   `.strip()`. Understand that string methods return new strings.
-- [ ] Use integers, floats, arithmetic (`+`, `-`, `*`, `/`, `**`), and parentheses.
+- [x] Use integers, floats, arithmetic (`+`, `-`, `*`, `/`, `**`), and parentheses.
   Notice that floating-point calculations can produce small rounding differences.
-- [ ] Read error messages and locate a syntax error or an undefined name.
-- [ ] Use descriptive `snake_case` names, simple comments, and readable formatting.
+- [x] Read error messages and locate a syntax error or an undefined name.
+- [x] Use descriptive `snake_case` names, simple comments, and readable formatting.
   Apply PEP 8 conventions as they become relevant.
 
 **Deliverable:** `exercises/module_01.py` prints a study-session summary using
