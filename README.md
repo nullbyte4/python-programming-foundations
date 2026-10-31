@@ -74,6 +74,10 @@ reports 75 minutes and 1.25 hours using arithmetic and an f-string.
 summary correctly, and you can introduce and fix a misspelled variable name
 by reading the error rather than rewriting the program blindly.
 
+**Study summary:** [Module 1 summary](Summaries/module-01-summary.md) - concepts,
+book references, common mistakes, and self-check questions. It is a companion
+for review; the checklist above remains the measure of progress.
+
 ## Module 2: Collections, Loops, and Decisions
 
 **Read:** [PCC, Chapters 3-6][pcc] - "Introducing Lists", "Working with Lists",
@@ -246,6 +250,8 @@ module. No packaging tools or `src/` layout are needed for these first scripts:
 ```text
 python-programming-foundations/
 ├── README.md
+├── Summaries/
+│   └── module-01-summary.md
 ├── exercises/
 │   ├── module_01.py
 │   ├── module_02.py
